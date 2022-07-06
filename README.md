@@ -26,8 +26,6 @@ Skills: NODE JS / REACT / JS /PHP/MYSQL/ HTML / CSS
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakiLhossain900&show_icons=true&count_private=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShakiLhossain900)  
 
 ![GitHub metrics](https://metrics.lecoq.io/ShakiLhossain900)  
