@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShakiLhossain900)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gazi-md-shakil-hossain-a144a3223/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hossain.gazi.md.shakil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gazi_md_shakil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/gazi-md-shakil)
+
 ## Hi there 👋, I'm Gazi Md. Shakil Hossain
 #### Software Developer
 ![Software Developer](https://media-exp2.licdn.com/dms/image/C4D16AQHU38Tc4B3QVg/profile-displaybackgroundimage-shrink_350_1400/0/1657117373458?e=1662595200&v=beta&t=licMNs4jLVWLbIoZkzFkY88FdcK5zRZSk1Cbjm-sZY8)
@@ -15,6 +15,7 @@ Skills: NODE JS / REACT / JS /PHP/MYSQL/ HTML / CSS
 - 📫 How to reach me: shakilsdeveloper@gmail.com 
 - 😄 Pronouns: Shakil 
 - ⚡ Fun fact: coffee>me<code 
+                  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShakiLhossain900)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gazi-md-shakil-hossain-a144a3223/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hossain.gazi.md.shakil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gazi_md_shakil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/gazi-md-shakil)
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
