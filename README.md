@@ -16,7 +16,7 @@ Skills: NODE JS / REACT / JAVASCRIPT /PHP/MYSQL/ HTML / CSS / BOOTSTRAP
 - 📫 How to reach me: shakilsdeveloper@gmail.com 
 - 🚴‍♂️ I am the great traveller.
 - 🌍 Idea can change ta world.
-- 👥 I believe group of people can do anything 
+- 👥 I believe i can do any work with my confidence. 
 -😄 Pronouns: Shakil 
 ### connect with me all time :
 
