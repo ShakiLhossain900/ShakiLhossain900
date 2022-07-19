@@ -1,7 +1,7 @@
 
 ## Hi there 👋, I'm Gazi Md. Shakil Hossain
-### Software Developer
-#### Co-Founder & CEO ss-blockchain-it
+### Software Developer 
+#### Co-Founder & CEO SS-BlockChain-IT
 ![I am GitHub Readme Generator's creator](https://media-exp2.licdn.com/dms/image/C5616AQE6GEy-BL0rng/profile-displaybackgroundimage-shrink_350_1400/0/1657795518046?e=1663200000&v=beta&t=fo2u9l8ckZMsYch3kVeqw5ia7wNp-QEw53lo_MNDWoQ)
 
 
