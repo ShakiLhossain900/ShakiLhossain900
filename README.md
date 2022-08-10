@@ -7,7 +7,7 @@
 
 FullStack Developer with a good history of working in the information technology and software industry. Eager to join a creative, problem-solving team. Ability to learn and implement new technologies quickly. My skills include HTML5, CSS3, Javascript, React, Node.js, MySql. These skills were learned at Udemy online paid courses.
 
-Skills: NODE JS / REACT / JAVASCRIPT /PHP/MYSQL/ HTML / CSS / BOOTSTRAP 
+Skills: NODE.JS / REACT / JAVASCRIPT /PHP/MYSQL/ HTML / CSS / BOOTSTRAP 
 
 - 🔭 I’m currently working on Food Ordering App 
 -Javascript devdloper
