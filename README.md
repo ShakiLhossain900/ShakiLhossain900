@@ -1,4 +1,5 @@
 
+##allah always great planner 
 ## Hi there 👋, I am Gazi Md. Shakil Hossain
 ### Full Stack  Software Developer 
 ### Co-Founder && CEO ss-blockchain-it
