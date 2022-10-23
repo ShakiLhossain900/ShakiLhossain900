@@ -1,6 +1,6 @@
 
 ## Hi there , I am Gazi Md. Shakil Hossain.
-### Full Stack  Software Developer 
+### MERN Stack  Software Developer 
 ### Co-Founder && CEO ss-blockchain-it
 
 
