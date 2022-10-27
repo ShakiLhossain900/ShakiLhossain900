@@ -1,7 +1,7 @@
 
 # Hi there, I am Gazi Md. Shakil Hossain.
 ### MERN Stack Developer 
-### Co-Founder && CEO ss-blockchain-it
+### Co-Founder & CEO ss-blockchain-it
 
 
 
