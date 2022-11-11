@@ -7,7 +7,7 @@
 
 FullStack Developer with a good history of working in the information technology and software industry. Eager to join a creative, problem-solving team. Ability to learn and implement new technologies quickly. My skills include HTML5, CSS3, Javascript, React, Node.js, MySql. These skills were learned at Udemy online paid courses.
 
-Skills: NODE JS / REACT / JAVASCRIPT/MYSQL/ HTML / CSS / BOOTSTRAP / Data Structure and Algorithm 
+Skills: Nodejs / REACT / typeScript / next.js / JAVASCRIPT/MYSQL/ MongoDB/ HTML5 / CSS / React-BOOTSTRAP / Data Structure and Algorithm 
 
 - 🔭 I’m currently working on Food Ordering App 
 -Javascript devdloper
@@ -21,7 +21,6 @@ Skills: NODE JS / REACT / JAVASCRIPT/MYSQL/ HTML / CSS / BOOTSTRAP / Data Struct
 - 😄 Pronouns: Shakil.
 ### connect with me all the times:
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShakiLhossain900)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gazi-md-shakil-hossain-a144a3223/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hossain.gazi.md.shakil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gazi_md_shakil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18860314/gazi-md-shakil)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakilhossain900&theme=blue-green&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilhossain900&theme=highcontrast&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
