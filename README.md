@@ -31,10 +31,3 @@ Skills: Nodejs / REACT / typeScript / next.js / JAVASCRIPT/MYSQL/ MongoDB/ HTML5
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShakiLhossain900)  
-
-![GitHub metrics](https://metrics.lecoq.io/ShakiLhossain900)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShakiLhossain900)  
-
-![Profile views](https://gpvc.arturio.dev/ShakiLhossain900)  
