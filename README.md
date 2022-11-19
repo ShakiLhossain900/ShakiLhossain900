@@ -23,7 +23,6 @@ Skills: Nodejs / REACT / typeScript / next.js / JAVASCRIPT/MYSQL/ MongoDB/ HTML5
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakilhossain900&theme=blue-green&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilhossain900&theme=highcontrast&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
