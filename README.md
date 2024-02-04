@@ -1,22 +1,21 @@
 
 # Hi there, I am Gazi Md. Shakil Hossain
-### MERN STACK DEVELOPER
+### Blockchain DEVELOPER
 ### Co-Founder & CEO SS-blockchain-IT
 
 
 
 FullStack Developer with a good history of working in the information technology and software industry. Eager to join a creative, problem-solving team. Ability to learn and implement new technologies quickly. My skills include HTML5, CSS3, Javascript, React, Node.js, MySql. These skills were learned at Udemy online paid courses.
 
-Skills: Nodejs / REACT / typeScript / next.js / JAVASCRIPT/MYSQL/ MongoDB/ HTML5 / CSS / React-BOOTSTRAP / Data Structure and Algorithm 
-
+Skills: Blockchain Developer | HayperLedger Fabric | Solidity | Web3 Js | Ether Js | React Js | Node Js | Mongo DB | MERN stack
 - 🔭 I’m currently working on Food Ordering App 
 -Javascript devdloper
 - Learning Data structure algorithm 
-- 🌱 I’m currently learning JavaScript | React | Node Js | Data structure and Algorithm  
-- 👯 I’m looking to collaborate on Software Development Team 
-- 🤔 I’m looking for help with React and Node Js 
-- 💬 Ask me about React and Node Js 
-- 📫 How to reach me: shakilsdeveloper@gmail.com 
+- 🌱 I’m currently learning Dev | Solidity | Node Js | React Js  
+- 👯 I’m looking to collaborate on Blockchain Development Team 
+- 🤔 I’m looking for help with Dev and Node Js
+- 💬 Ask me about Dapps, Solidity, React and Node Js
+- 📫 How to reach me: hossaingazishakil@gmail.com
 - 🚴‍♂️ I am the great traveller. Interest to travel around the world.
 - 😄 Pronouns: Shakil.
 ### connect with me all the times:
