@@ -26,16 +26,10 @@ Skills: Blockchain Developer | HayperLedger Fabric | Solidity | Web3 Js | Ether 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilhossain900&theme=highcontrast&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShakiLhossain900)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakiLhossain900&show_icons=true&count_private=true)  
 
-  
-
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShakiLhossain900)  
-
-![Profile views](https://gpvc.arturio.dev/ShakiLhossain900)  
 
 
