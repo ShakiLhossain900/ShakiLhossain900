@@ -31,7 +31,7 @@ Skills: Blockchain Developer | HayperLedger Fabric | Solidity | Web3 Js | Ether 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakiLhossain900&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShakiLhossain900)  
+  
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShakiLhossain900)  
