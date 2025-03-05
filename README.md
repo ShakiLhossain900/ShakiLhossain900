@@ -33,30 +33,4 @@ Learning: Data Structures & Algorithms
 🌍 Fun Fact
 🚴‍♂️ I am a passionate traveler who dreams of exploring every corner of the world!
 
-### 📫 Connect with Me  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShakiLhossain900) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gazi-md-shakil-hossain-a144a3223/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hossain.gazi.md.shakil) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gazi_md_shakil/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18860314/gazi-md-shakil)
-
----
-
-### 📊 GitHub Stats  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakiLhossain900&theme=blue-green&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakiLhossain900&theme=highcontrast&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🏆 GitHub Achievements  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShakiLhossain900)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🔥 GitHub Streak
-
 
