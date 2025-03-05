@@ -1,24 +1,37 @@
+# 👋 Hi there, I am Gazi Md. Shakil Hossain  
+## 🚀 Blockchain Developer | Founder & CEO at iChain  
 
-# Hi there, I am Gazi Md. Shakil Hossain
-### Blockchain DEVELOPER
-### Co-Founder & CEO SS-blockchain-IT
+---
 
+### 🔗 About Me  
+Passionate **Blockchain Developer** and **FullStack Developer** with a strong background in the **information technology** and **software industry**.  
 
+As the **Founder & CEO at iChain**, I lead innovative blockchain projects, combining **creativity**, **problem-solving**, and **cutting-edge technologies**.  
 
-FullStack Developer with a good history of working in the information technology and software industry. Eager to join a creative, problem-solving team. Ability to learn and implement new technologies quickly. My skills include HTML5, CSS3, Javascript, React, Node.js, MySql. These skills were learned at Udemy online paid courses.
+---
 
-Skills: Blockchain Developer | HayperLedger Fabric | Solidity | Web3 Js | Ether Js | React Js | Node Js | Mongo DB | MERN stack
-- 🔭 I’m currently working on Food Ordering App 
--Javascript devdloper
-- Learning Data structure algorithm 
-- 🌱 I’m currently learning Dev | Solidity | Node Js | React Js  
-- 👯 I’m looking to collaborate on Blockchain Development Team 
-- 🤔 I’m looking for help with Dev and Node Js
-- 💬 Ask me about Dapps, Solidity, React and Node Js
-- 📫 How to reach me: hossaingazishakil@gmail.com
-- 🚴‍♂️ I am the great traveller. Interest to travel around the world.
-- 😄 Pronouns: Shakil.
-### connect with me all the times:
+### ⚡ My Skills  
+```plaintext
+Blockchain: Hyperledger Fabric | Solidity | Web3.js | Ethers.js  
+FullStack: React.js | Node.js | MongoDB | MySQL | MERN Stack  
+Core: HTML5 | CSS3 | JavaScript  
+Learning: Data Structures & Algorithms  
+
+💼 Current Focus
+🔭 Developing a Food Ordering App
+💡 Exploring advanced Solidity, Node.js, and React.js techniques
+🤝 Open to collaborating with Blockchain Development Teams
+
+🎯 What I’m Looking For
+👯 Collaboration on Blockchain Development Projects
+🤔 Guidance and mentorship on DevOps and Node.js Scalability
+
+📚 Continuous Learning
+🌱 Mastering: Solidity | Node.js | React.js
+🔬 Deep Dive into: Data Structures & Algorithms
+
+🌍 Fun Fact
+🚴‍♂️ I am a passionate traveler who dreams of exploring every corner of the world!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShakiLhossain900)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gazi-md-shakil-hossain-a144a3223//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hossain.gazi.md.shakil/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/gazi_md_shakil//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18860314/gazi-md-shakil)  
 
